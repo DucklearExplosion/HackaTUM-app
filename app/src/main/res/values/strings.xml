@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Creators and Innovators</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Creators and Innovators</string>
+    <string name="second_fragment_label">Creators and Innovators</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        x
+    </string>
+    <string name="hello">hello</string>
+    <string name="string1">Create</string>
+    <string name="string2">Innovate</string>
+    <string name="welcome">Welcome to the most innovative and creative app for innovators and creators!</string>
+    <string name="string3">Profile</string>
+    <string name="back">home</string>
+    <string name="third_fragment_label" />
+    <string name="third_fragment">Welcome to the idea pitching screen. \nShare ideas Creators can help you with here!</string>
+    <string name="second_fragment">Welcome to the idea finding view!\nFind ideas that inspire you or help fellow creators find promising ideas faster by upvoting and downvoting ideas here!</string>
+    <string name="aaaaa">Share your Idea!</string>
+    <string name="aaaaaa">Name your idea!</string>
+    <string name="aaaaaaa">Describe your idea in detail! Feel free to upload images and sketches as well!</string>
+    <string name="bbb">Share new idea!</string>
+    <string name="ccc">View my ideas</string>
+    <string name="describe">Describe your idea in as much detail as possible!</string>
+    <string name="upload">Upload files</string>
+    <string name="publish">Publish my idea!</string>
+    <string name="ddd">Name your idea!</string>
+    <string name="fourth_fragment_label">" "</string>
+    <string name="fff">-1</string>
+    <string name="ggg">+1</string>
+    <string name="placeholder">idea goes here</string>
+</resources>
